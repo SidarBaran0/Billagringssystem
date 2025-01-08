@@ -1,5 +1,4 @@
 # Billagringssystem
-# Billagringssystem
 
 Dette prosjektet er et Spring Boot-basert system for lagring og håndtering av informasjon om biler. Systemet bruker en MySQL-database og er konfigurert for bruk med Docker og Kubernetes.
 
